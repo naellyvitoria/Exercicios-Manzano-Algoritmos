@@ -2,7 +2,7 @@
 
 alert("Conversão de dólar para real");
 
-let cotacao = parseFloat(prompt("Informe a cotação do dólar: "));
+let cotacão = parseFloat(prompt("Informe a cotação do dólar: "));
 let dolar = parseFloat(prompt("Informe a quantidade de dólares: "));
 
 let reais = dolar * cotacao;
